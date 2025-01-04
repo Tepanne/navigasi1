@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Password yang benar
-    const correctPassword = 'passwordku123';
+    const correctPassword = 'inipw123';
   
     // Prompt untuk meminta kata sandi dari pengguna
     const userPassword = prompt('Masukkan kata sandi untuk mengakses website:');
